@@ -1,0 +1,387 @@
+.login-box h2 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	line-height: 1.1;
+	padding-top: 20px;
+}
+.login-box .remember {
+	font-weight: bold;
+}
+.login-box h3 {
+	color: #646464;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	margin-left: 30px;
+}
+.login-box p {
+	font-weight: bold;
+}
+.control-group {
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.table {
+	margin-bottom: 0;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.box div.box-content div.row-fluid form fieldset div.span4 div.asignado {
+	margin-top: 19px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.box div.box-content div.row-fluid form fieldset div.span4 div.control-group div.controls div#selectError2_chzn.chzn-container {
+	margin-top: 3px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.box div.box-content div.row-fluid form fieldset div.span4 div.type-client {
+	margin-top: -8px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.box div.box-content div.row-fluid form fieldset div.span4 div.control-group div.client {
+	margin-top: 17px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.box div.box-content div.row-fluid form fieldset div.span4 div.control-group div.ratin {
+	margin-top: 11px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.box div.box-content div.row-fluid form fieldset div.span4 div.controls label.checkbox {
+	padding: 0;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.box div.box-content div.row-fluid form fieldset div.span4 div.controls label.pad {
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.box div.box-content div.row-fluid form fieldset div.span4 div.controls label.checkbox input#focusedInput.pad1 {
+	margin-left: 10px;
+	width: 50px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.box div.box-content div.row-fluid form fieldset div.span4 div.controls label.checkbox input#focusedInput.pad2 {
+	margin-left: 10px;
+	width: 50px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.box div.box-content div.row-fluid form fieldset div.span4 div.control-group div.cnae {
+	margin-top: -3px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.box div.box-content div.row-fluid form fieldset div.span4 div.control-group div.carg {
+	margin-top: 12px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.box div.box-content div.row-fluid form fieldset div.span4 div.sector {
+	margin-top: 19px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.box div.box-content div.row-fluid form fieldset div.span4 div.control-group div.description {
+	margin-top: 17px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.row-fluid div.table-results {
+	margin-top: 0;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span10 div.row-fluid div.span12 div.box-content div.row-fluid form fieldset div.span4 div.controls label.checkbox input#focusedInput.pad1 {
+	margin-left: 10px;
+	width: 50px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span10 div.row-fluid div.span12 div.box-content div.row-fluid form fieldset div.span4 div.controls label.checkbox input#focusedInput.pad2 {
+	margin-left: 10px;
+	width: 50px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span10 div.row-fluid div.span12 div.box-content div.row-fluid form fieldset div.span4 div.controls label.pad {
+	padding: 0;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span10 div.row-fluid div.span12 div.box-content div.row-fluid form fieldset div.span4 div.control-group div.client {
+	margin-top: 25px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span9 div.row-fluid div.span12 div.box-content div.row-fluid table.table thead tr th {
+	text-align: right;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span9 div.row-fluid div.span12 div.box-content div.row-fluid table.table-r tbody tr th {
+	text-align: right
+}
+html.js body div.container-fluid div#myModal.modal div.modal-body div.row-fluid div.span9 div.row-fluid div.observ {
+	margin-top: 25px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span9 div.row-fluid div.work {
+	margin-top: 25px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span3 div.row-fluid div.span12 div.calendar-client {
+	margin-top: 25px;
+}
+html.js body div.container-fluid div#myModal.modal div.modal-body div.row-fluid div.span3 div.row-fluid div.span12 div.span4 a.quick-button-small {
+	margin-bottom: 25px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span3 div.row-fluid div.row-fluid div.span12 div.box-content div.row-fluid div.todo ul.todo-list li span.label {
+	position: fixed;
+}
+html.js body div.container-fluid div#myModal.modal div.modal-body div.row-fluid div.span3 div.row-fluid div.row-fluid div.span12 div. {
+ margin-top: 25px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span3 div.row-fluid div.row-fluid div.span12 div.box-content div.row-fluid div.todo ul.todo-list li i.halflings-icon {
+	margin-top: 3px;
+	margin-right: 5px;
+}
+html.js body div.container-fluid div#myModal.modal div.modal-body div.row-fluid div.span9 div.row-fluid div.persons {
+	margin-top: 25px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span9 div.row-fluid div.persons div.box-content div.row-fluid table.table thead tr th {
+	text-align: left;
+}
+html.js body div.container-fluid div#ficha.modal div.modal-body div.row-fluid div.span3 div.row-fluid div.span12 div.span4 a.phone {
+	border-color: #FA5833;
+	background-color: #FA603D;
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, hsl(11, 95%, 76%)), color-stop(100%, hsl(11, 95%, 61%)));
+	background-image: -webkit-linear-gradient(top, hsl(11, 95%, 76%), hsl(11, 95%, 61%));
+	background-image: -moz-linear-gradient(top, hsl(11, 95%, 76%), hsl(11, 95%, 61%));
+	background-image: -ms-linear-gradient(top, hsl(11, 95%, 76%), hsl(11, 95%, 61%));
+	background-image: -o-linear-gradient(top, hsl(11, 95%, 76%), hsl(11, 95%, 61%));
+	background-image: linear-gradient(top, hsl(11, 95%, 76%), hsl(11, 95%, 61%));
+	color: #fff;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-shadow: 0;
+}
+html.js body div.container-fluid div#ficha.modal div.modal-body div.row-fluid div.span3 div.row-fluid div.span12 div.span4 a.agendar {
+	border-color: #5AAD34;
+	background-color: #78CD51;
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, hsl(101, 54%, 71%)), color-stop(100%, hsl(101, 55%, 56%)));
+	background-image: -webkit-linear-gradient(top, hsl(101, 54%, 71%), hsl(101, 55%, 56%));
+	background-image: -moz-linear-gradient(top, hsl(101, 54%, 71%), hsl(101, 55%, 56%));
+	background-image: -ms-linear-gradient(top, hsl(101, 54%, 71%), hsl(101, 55%, 56%));
+	background-image: -o-linear-gradient(top, hsl(101, 54%, 71%), hsl(101, 55%, 56%));
+	background-image: linear-gradient(top, hsl(101, 54%, 71%), hsl(101, 55%, 56%));
+	color: #fff;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-shadow: none;
+}
+html.js body div.container-fluid div#ficha.modal div.modal-body div.row-fluid div.span3 div.row-fluid div.span12 div.span4 a.new-note {
+	border-color: #2FABE9;
+	background-color: #67C2EF;
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, hsl(200, 80%, 82%)), color-stop(100%, hsl(200, 81%, 67%)));
+	background-image: -webkit-linear-gradient(top, hsl(200, 80%, 82%), hsl(200, 81%, 67%));
+	background-image: -moz-linear-gradient(top, hsl(200, 80%, 82%), hsl(200, 81%, 67%));
+	background-image: -ms-linear-gradient(top, hsl(200, 80%, 82%), hsl(200, 81%, 67%));
+	background-image: -o-linear-gradient(top, hsl(200, 80%, 82%), hsl(200, 81%, 67%));
+	background-image: linear-gradient(top, hsl(200, 80%, 82%), hsl(200, 81%, 67%));
+	color: #fff;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-shadow: none;
+}
+html.js body div.container-fluid div#ficha.modal div.modal-body div.row-fluid div.span3 div.row-fluid div.span12 div.span4 a.quick-button-small {
+	margin-bottom: 20px;
+}
+.box-header .box-icon a {
+	margin: 0 5px;
+}
+a {
+	color: #646464;
+}
+a {
+	color: #0088CC;
+	text-decoration: none;
+}
+.box-header {
+	font-size: 16px;
+	line-height: 16px;
+}
+body {
+	color: #3B3B41;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+body {
+	color: #333333;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+}
+html {
+	font-size: 100%;
+}
+html.js body div.container-fluid div#ficha.modal div.modal-body div.row-fluid div.span3 div.row-fluid div.row-fluid div.span12 div.box-content div.row-fluid ul.messagesList li span.from {
+	float: left;
+	width: auto;
+}
+html.js body div.container-fluid div#ficha.modal div.modal-body div.row-fluid div.span3 div.row-fluid div.row-fluid div.span12 div.box-content div.row-fluid ul.messagesList li span.date {
+	float: right;
+	width: auto;
+}
+html.js body div.container-fluid div#ficha.modal div.modal-body div.row-fluid div.span3 div.row-fluid div.row-fluid div.span12 div.box-content div.row-fluid ul.messagesList li span.title {
+	width: 100%;
+	overflow: visible;
+	text-overflow: inherit;
+	white-space: normal;
+	cursor: auto;
+}
+html.js body div.container-fluid div#myModal.modal div.modal-body div.row-fluid div.span3 div.row-fluid div.row-fluid div.span12 div.notes {
+	margin-top: 25px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span12 div.row-fluid div.span12 div.box-content div.row-fluid table.table thead tr td input#focusedInput.input-medium {
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span12 div.row-fluid div.span12 div.box-content div.row-fluid table.table tbody tr th, td {
+	vertical-align: middle;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span12 div.row-fluid div.span12 div.box-content div.row-fluid table.table thead tr td select.input-medium {
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span12 div.row-fluid div.span12 div.box-content div.row-fluid table.table tbody tr td input#focusedInput.input-medium {
+	margin-bottom: 0;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span12 div.row-fluid div.edit-observ {
+	margin-top: 25px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span12 div.row-fluid div.edit-persons {
+	margin-top: 25px;
+}
+html.js body div.container-fluid div#ficha.modal div.modal-body div.row-fluid div.span9 div.row-fluid div.observ {
+	margin-top: 25px;
+}
+html.js body div.container-fluid div#ficha.modal div.modal-body div.row-fluid div.span9 div.row-fluid div.persons {
+	margin-top: 25px;
+}
+.modal.fade.in {
+	top: 1%;
+}
+.modal {
+	margin-left: -700px;
+	width: 1400px;
+}
+.modal-body {
+	max-height: 610px;
+}
+html.js body div.container-fluid div#myModal.modal div.modal-header h3 {
+	line-height: 1;
+}
+html.js body div.container-fluid div#myModal.modal div.modal-body div.row-fluid div.span3 div.row-fluid div.span12 div.box-content div.row-fluid div.control-group div.controls select {
+	margin-bottom: 0;
+}
+html.js body div.container-fluid div#ficha.modal div.modal-header h3 {
+	line-height: 1;
+}
+html.js body div.container-fluid div#ficha.modal div.modal-body div.row-fluid div.span3 div.row-fluid div.row-fluid div.span12 div.notes {
+	margin-top: 20px;
+}
+#agendar {
+	top: 10%;
+	margin-left: -380px;
+	width: 760px;
+}
+#new-note {
+	margin-left: -440px;
+	top: 10%;
+	width: 880px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span5 div.row-fluid div.span12 div.span4 a.quick-button-small {
+	margin-bottom: 20px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span5 div.row-fluid div.span12 div.span4 a.edit-task {
+	border-color: #5AAD34;
+	background-color: #78CD51;
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, hsl(101, 54%, 71%)), color-stop(100%, hsl(101, 55%, 56%)));
+	background-image: -webkit-linear-gradient(top, hsl(101, 54%, 71%), hsl(101, 55%, 56%));
+	background-image: -moz-linear-gradient(top, hsl(101, 54%, 71%), hsl(101, 55%, 56%));
+	background-image: -ms-linear-gradient(top, hsl(101, 54%, 71%), hsl(101, 55%, 56%));
+	background-image: -o-linear-gradient(top, hsl(101, 54%, 71%), hsl(101, 55%, 56%));
+	background-image: linear-gradient(top, hsl(101, 54%, 71%), hsl(101, 55%, 56%));
+	color: #fff;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-shadow: none;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span5 div.row-fluid div.span12 div.span4 a.delete-task {
+	border-color: #FA5833;
+	background-color: #FA603D;
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, hsl(11, 95%, 76%)), color-stop(100%, hsl(11, 95%, 61%)));
+	background-image: -webkit-linear-gradient(top, hsl(11, 95%, 76%), hsl(11, 95%, 61%));
+	background-image: -moz-linear-gradient(top, hsl(11, 95%, 76%), hsl(11, 95%, 61%));
+	background-image: -ms-linear-gradient(top, hsl(11, 95%, 76%), hsl(11, 95%, 61%));
+	background-image: -o-linear-gradient(top, hsl(11, 95%, 76%), hsl(11, 95%, 61%));
+	background-image: linear-gradient(top, hsl(11, 95%, 76%), hsl(11, 95%, 61%));
+	color: #fff;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-shadow: 0;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span5 div.row-fluid div.span12 div.span4 a.new-task {
+	border-color: #2FABE9;
+	background-color: #67C2EF;
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, hsl(200, 80%, 82%)), color-stop(100%, hsl(200, 81%, 67%)));
+	background-image: -webkit-linear-gradient(top, hsl(200, 80%, 82%), hsl(200, 81%, 67%));
+	background-image: -moz-linear-gradient(top, hsl(200, 80%, 82%), hsl(200, 81%, 67%));
+	background-image: -ms-linear-gradient(top, hsl(200, 80%, 82%), hsl(200, 81%, 67%));
+	background-image: -o-linear-gradient(top, hsl(200, 80%, 82%), hsl(200, 81%, 67%));
+	background-image: linear-gradient(top, hsl(200, 80%, 82%), hsl(200, 81%, 67%));
+	color: #fff;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-shadow: none;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span5 div#add-task.modal {
+	top: 5%;
+	margin-left: -415px;
+	width: 830px;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span5 div#editar-task.modal {
+	top: 5%;
+	margin-left: -415px;
+	width: 830px;
+}
+html.js body div.container-fluid div#edit-business.modal div.modal-body div.row-fluid div.span12 div.box-content div.row-fluid table.table thead tr th {
+	text-align: right;
+	vertical-align: middle;
+}
+html.js body div.container-fluid div#edit-business.modal div.modal-body div.row-fluid div.span12 div.box-content div.row-fluid table.table thead tr td input#focusedInput.input-medium {
+	margin-bottom: 0;
+	margin-top: 5px;
+}
+html.js body div.container-fluid div#edit-business.modal div.modal-body div.row-fluid div.span12 div.box-content div.row-fluid table.table tbody tr th {
+	vertical-align: middle;
+	text-align: right;
+}
+html.js body div.container-fluid div#edit-business.modal div.modal-body div.row-fluid div.span12 div.box-content div.row-fluid table.table tbody tr td input#focusedInput.input-medium {
+	margin-bottom: 0;
+	margin-top: -1px;
+}
+html.js body div.container-fluid div#edit-business.modal div.modal-body div.row-fluid div.span12 div.box-content div.row-fluid table.table tbody tr td select.input-medium {
+	margin-bottom: 0;
+}
+html.js body div.container-fluid div#edit-business.modal div.modal-body div.row-fluid div.observ {
+	margin-top: 25px;
+}
+html.js body div.container-fluid div#edit-business.modal div.modal-body div.row-fluid div.edit-persons {
+	margin-top: 25px;
+}
+html.js body div.container-fluid div#edit-business.modal div.modal-body div.row-fluid div.span12 div.box-content div.row-fluid table.table thead tr td select.input-medium {
+	margin-bottom: 0;
+	margin-top: 3px;
+}
+html.js body div.container-fluid div#edit-business.modal div.modal-body div.row-fluid div.edit-observ {
+	margin-top: 25px;
+}
+html.js body div.container-fluid div#edit-business.modal div.modal-body div.row-fluid div.edit-persons div.box-content div.row-fluid table.table thead tr th {
+	text-align: left;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.span12 a.btn {
+	background-color: #5bb75b;
+	color: #ffffff;
+	background-image: -moz-linear-gradient(top, #78cd51, #5AAD34);
+	background-image: -ms-linear-gradient(top, #78cd51, #5AAD34);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#78cd51), to(#5AAD34));
+	background-image: -webkit-linear-gradient(top, #78cd51, #5AAD34);
+	background-image: -o-linear-gradient(top, #78cd51, #5AAD34);
+	background-image: linear-gradient(top, #78cd51, #5AAD34);
+	background-repeat: repeat-x;
+ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#'78cd51, endColorstr='#'5AAD34, GradientType=0);
+	border-color: #5AAD34 #5AAD34 #387038;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+ filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+html.js body div.container-fluid div.row-fluid footer p span a {
+	color: #fff;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.row-fluid div.box div.box-content table.table tbody tr td a {
+	color: #005580;
+	text-decoration: underline;
+}
+html.js body div.container-fluid div.row-fluid div#content.span11 div.row-fluid div.row-fluid div.box div.box-content table.table tbody tr td a:hover {
+	text-decoration: none;
+}
+html.js body div.container-fluid div#ficha.modal div.modal-body div.row-fluid div.span9 div.row-fluid div.span12 div.box-content div.row-fluid table.table tbody tr td a {
+	color: #005580;
+	text-decoration: underline;
+}
+html.js body div.container-fluid div#ficha.modal div.modal-body div.row-fluid div.span9 div.row-fluid div.span12 div.box-content div.row-fluid table.table tbody tr td a:hover {
+	text-decoration: none;
+}
